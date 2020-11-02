@@ -45,7 +45,6 @@ function addTodo(event){
     todoInput.value = "";
 }
 
-
 function deleteCheck(event){
     //console log what im clicking
     //console.log(event.target)
