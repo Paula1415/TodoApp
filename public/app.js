@@ -95,7 +95,6 @@ function filterTodo(event){
     })
 }
 
-function completedOrNot()
 
 function saveLocalTodos(todo){
     let todos;
